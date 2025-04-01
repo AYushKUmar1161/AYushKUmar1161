@@ -12,9 +12,11 @@
 - 🚀 Passionate Java Full-Stack Developer  
 - 🎯 Open-Source Enthusiast  
 - 🏗️ Building cool projects in **Web & Desktop Development**  
-- 📚 Learning **Chromium Development** for GSoC  
+- 📚 Learning **Chromium Development** for GSoC
 
-
+<p align="center">
+  <marquee>🚀 Welcome to Ayush Kumar's GitHub! 🚀</marquee>
+</p>
 
 ### 💬 **Quote of the Day**  
 <p align="center">
