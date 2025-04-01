@@ -14,9 +14,7 @@
 - 🏗️ Building cool projects in **Web & Desktop Development**  
 - 📚 Learning **Chromium Development** for GSoC
 
-<p align="center">
-  <marquee>🚀 Welcome to Ayush Kumar's GitHub! 🚀</marquee>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/particles.gif" width="500">
