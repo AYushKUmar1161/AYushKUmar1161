@@ -18,6 +18,11 @@
   <marquee>🚀 Welcome to Ayush Kumar's GitHub! 🚀</marquee>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/particles.gif" width="500">
+</p>
+
+
 ### 💬 **Quote of the Day**  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
