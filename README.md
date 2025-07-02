@@ -19,6 +19,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/particles.gif" width="500">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushkxyz/ayushkxyz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 ### 💬 **Quote of the Day**  
