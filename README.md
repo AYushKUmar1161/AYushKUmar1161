@@ -14,9 +14,7 @@
 - 🏗️ Building cool projects in **Web & Desktop Development**  
 - 📚 Learning **Chromium Development** for GSoC
 
-<p align="center">
-  <img src="https://github.com/AYushKUmar1161/AYushKUmar1161/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
 
 
 
